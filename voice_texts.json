@@ -1,0 +1,50 @@
+{
+ "en": {
+  "high": "Warning! This message looks risky and may be a scam. Do not click any link, and do not open any file or attachment from it. Do not share your OTP, PIN or password. Do not send money. Check with the sender through another trusted way. If you have already lost money, call 1 9 3 0 right away.",
+  "mid": "Be careful. This message shows some scam warning signs. Please do not click any link or open any file in it until you have checked that it is genuine.",
+  "safe": "No common scam signs were found. But stay careful, and never share your OTP with anyone.",
+  "why": "Warning signs found:",
+  "test": "This is a test of the voice assistant. Do not click unknown links.",
+  "r_urgency": "it is trying to rush you",
+  "r_prize": "it promises an unexpected prize",
+  "r_money": "it asks for money or a payment",
+  "r_link": "it has a suspicious link",
+  "r_sensitive": "it asks for your OTP or password",
+  "r_threat": "it uses threats or fear",
+  "r_impersonation": "someone may be pretending to be a friend or an official",
+  "r_new_payee": "it gives new payment details",
+  "r_too_good": "it promises easy money"
+ },
+ "te": {
+  "high": "హెచ్చరిక! ఈ సందేశం ప్రమాదకరంగా కనిపిస్తోంది, ఇది మోసం కావచ్చు. దీనిలోని ఏ లింక్‌ను క్లిక్ చేయవద్దు, ఏ ఫైల్‌ను లేదా అటాచ్‌మెంట్‌ను తెరవవద్దు. మీ OTP, PIN లేదా పాస్‌వర్డ్‌ను ఎవరితోనూ పంచుకోవద్దు. డబ్బు పంపవద్దు. వేరే నమ్మదగిన మార్గంలో పంపినవారిని సంప్రదించి నిర్ధారించుకోండి. ఇప్పటికే డబ్బు పోయి ఉంటే, వెంటనే 1 9 3 0 కు కాల్ చేయండి.",
+  "mid": "జాగ్రత్త! ఈ సందేశంలో కొన్ని మోసం హెచ్చరిక సంకేతాలు ఉన్నాయి. ఇది నిజమైనదని నిర్ధారించుకునే వరకు దీనిలోని ఏ లింక్‌ను క్లిక్ చేయవద్దు, ఏ ఫైల్‌ను తెరవవద్దు.",
+  "safe": "సాధారణ మోసం సంకేతాలు ఏవీ కనిపించలేదు. అయినా జాగ్రత్తగా ఉండండి, మీ OTP ని ఎవరితోనూ పంచుకోవద్దు.",
+  "why": "కనిపించిన హెచ్చరిక సంకేతాలు:",
+  "test": "ఇది వాయిస్ అసిస్టెంట్ పరీక్ష. తెలియని లింక్‌లను క్లిక్ చేయవద్దు.",
+  "r_urgency": "తొందర పెడుతోంది",
+  "r_prize": "ఊహించని బహుమతి ఆశ చూపుతోంది",
+  "r_money": "డబ్బు లేదా చెల్లింపు అడుగుతోంది",
+  "r_link": "అనుమానాస్పద లింక్ ఉంది",
+  "r_sensitive": "OTP లేదా పాస్‌వర్డ్ అడుగుతోంది",
+  "r_threat": "బెదిరిస్తోంది",
+  "r_impersonation": "ఎవరో వేరొకరిలా నటిస్తున్నారేమో",
+  "r_new_payee": "కొత్త చెల్లింపు వివరాలు ఇస్తోంది",
+  "r_too_good": "సులభంగా డబ్బు వస్తుందని చెబుతోంది"
+ },
+ "hi": {
+  "high": "चेतावनी! यह संदेश जोखिम भरा लगता है और धोखाधड़ी हो सकता है। इसमें दिए किसी लिंक पर क्लिक न करें, और कोई फ़ाइल या अटैचमेंट न खोलें। अपना OTP, पिन या पासवर्ड किसी को न बताएं। पैसे न भेजें। भेजने वाले से किसी दूसरे भरोसेमंद तरीके से जाँच करें। अगर पैसे पहले ही जा चुके हैं, तो तुरंत 1 9 3 0 पर कॉल करें।",
+  "mid": "सावधान! इस संदेश में धोखाधड़ी के कुछ संकेत हैं। जब तक आप जाँच न लें कि यह असली है, इसके किसी लिंक पर क्लिक न करें और कोई फ़ाइल न खोलें।",
+  "safe": "कोई आम धोखाधड़ी संकेत नहीं मिला। फिर भी सावधान रहें, अपना OTP किसी को न बताएं।",
+  "why": "मिले संकेत:",
+  "test": "यह वॉइस असिस्टेंट का परीक्षण है। अनजान लिंक पर क्लिक न करें।",
+  "r_urgency": "यह आपको जल्दबाज़ी में डाल रहा है",
+  "r_prize": "यह अचानक इनाम का लालच दे रहा है",
+  "r_money": "यह पैसे या भुगतान माँग रहा है",
+  "r_link": "इसमें संदिग्ध लिंक है",
+  "r_sensitive": "यह OTP या पासवर्ड माँग रहा है",
+  "r_threat": "यह डरा या धमका रहा है",
+  "r_impersonation": "कोई दोस्त या अधिकारी बनकर बात कर रहा हो सकता है",
+  "r_new_payee": "यह नए भुगतान विवरण दे रहा है",
+  "r_too_good": "यह आसान कमाई का वादा करता है"
+ }
+}
